@@ -151,3 +151,4 @@ class PDFDocInfo {
 
 If you have any suggestions, improvements or issues, feel free to contribute to this project.
 You can either submit a new issue or propose a pull request. Direct your pull requests into the *dev* branch.
+# pdf_text
